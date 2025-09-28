@@ -1,0 +1,35 @@
+header {
+    font-family: cursive;
+    font: bold;
+    background-color: beige;
+    color: black;
+    font-size: 24px;
+}
+
+.hg {
+    color: black;
+    font-family: cursive;
+}
+#check_image {
+    font-family: cursive;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td {
+     border: 1px solid black;
+     padding: 4px;
+}
+aside {
+    font-family: cursive;
+    color: black;
+}
+
+footer {
+    font-family: cursive;
+    color: black;
+    background-color: beige;
+}
